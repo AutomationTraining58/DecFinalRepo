@@ -11,5 +11,14 @@ public class Logout {
 	{
 		System.out.println("log out success");
 	}
+	
+	
+	
+	@Test
+	public void testcase2()
+	{
+		System.out.println("testcase developed by personB");
+		
+	}
 
 }
